@@ -46,5 +46,5 @@ The project follows **clean code principles**, is fully modular, and structured 
 
 ### Clone & Open Project
 ```bash
-git clone https://github.com/YOUR-USERNAME/slot-machine-unity.git
-cd slot-machine-unity
+git clone https://github.com/lalitchauhan179/unity-slot-machine/.git
+cd unity-slot-machine
